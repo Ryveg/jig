@@ -1,9 +1,5 @@
 vendor
 node_modules
 bower_components
-.env
-.vagrant
-Vagrantfile
 .codekit-cache
 .sass-cache
-*.notes

@@ -11,5 +11,5 @@ $footerContent = '';
 
 <h1>Home</h1>
 <p>
-    testing home content
+    Content
 </p>
